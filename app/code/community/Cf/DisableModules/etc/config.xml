@@ -5,7 +5,7 @@
             <version>0.1.0</version>
         </Cf_DisableModules>
     </modules>
-    
+
     <global>
         <blocks>
             <disablemodules>
@@ -28,16 +28,16 @@
             </disablemodules>
         </models>
     </global>
-    
+
     <admin>
-    <routers>
-<adminhtml>
-<args>
-<modules>
-<Cf_DisableModules before="Mage_Adminhtml">Cf_DisableModules</Cf_DisableModules>
-</modules>
-</args>
-</adminhtml>
-</routers>
-</admin>
+        <routers>
+            <adminhtml>
+                <args>
+                    <modules>
+                        <Cf_DisableModules before="Mage_Adminhtml">Cf_DisableModules</Cf_DisableModules>
+                    </modules>
+                </args>
+            </adminhtml>
+        </routers>
+    </admin>
 </config>

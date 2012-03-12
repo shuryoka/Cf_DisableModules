@@ -1,2 +1,2 @@
-app/code/community/Cf/DisableModules/               app/code/community/Cf/DisableModules/
-app/etc/modules/Cf_DisableModules.xml               app/etc/modules/Cf_DisableModules.xml
+app/code/community/Cf/DisableModules/               htdocs/app/code/community/Cf/DisableModules/
+app/etc/modules/Cf_DisableModules.xml               htdocs/app/etc/modules/Cf_DisableModules.xml

@@ -1,4 +1,3 @@
-
 <?xml version="1.0" encoding="UTF-8"?>
 <config>
     <modules>
@@ -7,5 +6,5 @@
             <codePool>community</codePool>
             <depends>Mage_Adminhtml</depends>
         </Cf_DisableModules>
-        </modules>
+    </modules>
 </config>
